@@ -1,6 +1,9 @@
 {
     "recommendations": [
+        "tamasfe.even-better-toml",
         "d-biehl.robotcode",
-        "tamasfe.even-better-toml"
+        "ms-python.python",
+        "donjayamanne.python-extension-pack",
+        "ms-python.debugpy"
     ]
 }
